@@ -37,17 +37,20 @@ The dataset is from kaggle it consists of more than 10,000 records collected fro
 <strong>Question 1 </strong> Which movie has the highest and least profit? <br>
 We can indicate from the below charts that the highest movie profit is Avatar and least movie profit is The Warrior's Way
 
-<img width="476" alt="Screen Shot 1443-06-23 at 5 18 24 AM" src="https://user-images.githubusercontent.com/89170923/151092956-41eda165-4220-45e8-9fcd-1436b7aba7ec.png"> <img width="427" alt="Screen Shot 1443-06-23 at 5 18 34 AM" src="https://user-images.githubusercontent.com/89170923/151092963-b1a5bf75-bb82-47d3-86be-5df567168f91.png">
+<p align='center'>
+<img width="476" alt="Screen Shot 1443-06-23 at 5 18 24 AM" src="https://user-images.githubusercontent.com/89170923/151092956-41eda165-4220-45e8-9fcd-1436b7aba7ec.png"> <img width="427" alt="Screen Shot 1443-06-23 at 5 18 34 AM" src="https://user-images.githubusercontent.com/89170923/151092963-b1a5bf75-bb82-47d3-86be-5df567168f91.png"></p>
 
 <strong>Question 2 </strong> Which movie costed the highest budget?<br>
 The below charts shows the highest movie budget is The Warrior's Way and least movie profit is Death Wish
 
-<img width="476" alt="Screen Shot 1443-06-23 at 5 23 56 AM" src="https://user-images.githubusercontent.com/89170923/151093474-605bd0d6-e807-4053-8136-5be9eec444a3.png"> <img width="427" alt="Screen Shot 1443-06-23 at 5 24 05 AM" src="https://user-images.githubusercontent.com/89170923/151093483-42d829cf-ef8c-45b6-ae54-89c900627a85.png">
+<p align='center'>
+<img width="476" alt="Screen Shot 1443-06-23 at 5 23 56 AM" src="https://user-images.githubusercontent.com/89170923/151093474-605bd0d6-e807-4053-8136-5be9eec444a3.png"> <img width="427" alt="Screen Shot 1443-06-23 at 5 24 05 AM" src="https://user-images.githubusercontent.com/89170923/151093483-42d829cf-ef8c-45b6-ae54-89c900627a85.png"></p>
 
 <strong>Question 3 </strong> Which movie costed the highest Revenue?<br>
 The below charts shows the highest movie revenue is Avatar and least movie revenue is Kids's Story
 
-<img width="468" alt="Screen Shot 1443-06-23 at 5 28 26 AM" src="https://user-images.githubusercontent.com/89170923/151093884-3cd3af9c-dacf-4b8b-b35b-54ea4fed0e4b.png"> <img width="467" alt="Screen Shot 1443-06-23 at 5 28 33 AM" src="https://user-images.githubusercontent.com/89170923/151093875-b44d8861-8894-4e1b-99e1-7a106b7a5b65.png">
+<p align='center'>
+<img width="468" alt="Screen Shot 1443-06-23 at 5 28 26 AM" src="https://user-images.githubusercontent.com/89170923/151093884-3cd3af9c-dacf-4b8b-b35b-54ea4fed0e4b.png"> <img width="467" alt="Screen Shot 1443-06-23 at 5 28 33 AM" src="https://user-images.githubusercontent.com/89170923/151093875-b44d8861-8894-4e1b-99e1-7a106b7a5b65.png"></p>
 
 <strong>Question 4 </strong> Which movie has the highest popularity, in what year and which director?<br>
 The below tabel shows that director Colin Trevorrow has the highest movie popularity in 2015 with $136,352,881.0 profit
